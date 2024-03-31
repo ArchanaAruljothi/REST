@@ -1,0 +1,502 @@
+{
+    "pizza": [
+      {
+        "id": "1",
+        "name": "chicken Fajita",
+        "quantity": "1",
+        "price": "150",
+        "isEnable":false
+   
+      },
+      {
+        "id": "2",
+        "name": "Pork-Trouble pizza",
+        "quantity": "1",
+        "price": "100",
+        "isEnable":false
+       
+      },
+      {
+        "id": "3",
+        "name": "Mutton Pizza",
+        "quantity": "1",
+        "price": "200",
+        "isEnable":false
+       
+      },
+      {
+        "id": "4",
+        "name": "Mushroom Pizza",
+        "quantity": "1",
+        "price": "300",
+        "isEnable":false
+       
+      },
+      {
+        "id": "5",
+        "name": "veg corn pizza",
+        "quantity": "1",
+        "price": "375",
+        "isEnable":false
+       
+      },
+      {
+        "id": "6",
+        "name": "Avocado Pizza",
+        "quantity": "1",
+        "price": "400",
+        "isEnable":false
+       
+      }
+    ],
+    "burger": [
+        {
+          "id": "7",
+          "name": "chicken Burger",
+          "quantity": "1",
+          "price": "350",
+          "isEnable":false
+     
+        },
+        {
+          "id": "8",
+          "name": "Pork-Trouble Burger",
+          "quantity": "1",
+          "price": "300",
+          "isEnable":false
+         
+        },
+        {
+          "id": "9",
+          "name": "2 layer Burger crunch",
+          "quantity": "1",
+          "price": "600",
+          "isEnable":false
+         
+        },
+        {
+          "id": "10",
+          "name": "beef Burger",
+          "quantity": "1",
+          "price": "500",
+          "isEnable":false
+         
+        },
+        {
+          "id": "11",
+          "name": "veg classic burger",
+          "quantity": "1",
+          "price": "275",
+          "isEnable":false
+         
+        },
+        {
+          "id": "12",
+          "name": "spinach Burger",
+          "quantity": "1",
+          "price": "400",
+          "isEnable":false
+         
+        }
+      ],
+      "pasta": [
+        {
+          "id": "13",
+          "name": "Mac and cheese",
+          "quantity": "1",
+          "price": "450",
+          "isEnable":false
+     
+        },
+        {
+          "id": "14",
+          "name": "chilli pasta",
+          "quantity": "1",
+          "price": "400",
+          "isEnable":false
+         
+        },
+        {
+          "id": "15",
+          "name": "Tomatoes Crisp",
+          "quantity": "1",
+          "price": "500",
+          "isEnable":false
+         
+        },
+        {
+          "id": "16",
+          "name": "Egg classic pasta",
+          "quantity": "1",
+          "price": "400",
+          "isEnable":false
+         
+        },
+        {
+          "id": "17",
+          "name": "fried red pasta",
+          "quantity": "1",
+          "price": "375",
+          "isEnable":false
+         
+        },
+        {
+          "id": "18",
+          "name": "2 in one pasta",
+          "quantity": "1",
+          "price": "400",
+          "isEnable":false
+         
+        }
+      ]
+      "pasta": [
+        {
+          "id": "13",
+          "name": "Mac and cheese",
+          "quantity": "1",
+          "price": "450",
+          "isEnable":false
+     
+        },
+        {
+          "id": "14",
+          "name": "chilli pasta",
+          "quantity": "1",
+          "price": "400",
+          "isEnable":false
+         
+        },
+        {
+          "id": "15",
+          "name": "Tomatoes Crisp",
+          "quantity": "1",
+          "price": "500",
+          "isEnable":false
+         
+        },
+        {
+          "id": "16",
+          "name": "Egg classic pasta",
+          "quantity": "1",
+          "price": "400",
+          "isEnable":false
+         
+        },
+        {
+          "id": "17",
+          "name": "fried red pasta",
+          "quantity": "1",
+          "price": "375",
+          "isEnable":false
+         
+        },
+        {
+          "id": "18",
+          "name": "2 in one pasta",
+          "quantity": "1",
+          "price": "400",
+          "isEnable":false
+         
+        }
+      ]
+      "pasta": [
+        {
+          "id": "13",
+          "name": "Mac and cheese",
+          "quantity": "1",
+          "price": "450",
+          "isEnable":false
+     
+        },
+        {
+          "id": "14",
+          "name": "chilli pasta",
+          "quantity": "1",
+          "price": "400",
+          "isEnable":false
+         
+        },
+        {
+          "id": "15",
+          "name": "Tomatoes Crisp",
+          "quantity": "1",
+          "price": "500",
+          "isEnable":false
+         
+        },
+        {
+          "id": "16",
+          "name": "Egg classic pasta",
+          "quantity": "1",
+          "price": "400",
+          "isEnable":false
+         
+        },
+        {
+          "id": "17",
+          "name": "fried red pasta",
+          "quantity": "1",
+          "price": "375",
+          "isEnable":false
+         
+        },
+        {
+          "id": "18",
+          "name": "2 in one pasta",
+          "quantity": "1",
+          "price": "400",
+          "isEnable":false
+         
+        }
+      ],
+      "noodles": [
+        {
+          "id": "19",
+          "name": "Pepper Burst Noodles",
+          "quantity": "1",
+          "price": "450",
+          "isEnable":false
+     
+        },
+        {
+          "id": "20",
+          "name": "chinese Garlic noodles",
+          "quantity": "1",
+          "price": "400",
+          "isEnable":false
+         
+        },
+        {
+          "id": "21",
+          "name": "Paneer Noodles",
+          "quantity": "1",
+          "price": "500",
+          "isEnable":false
+         
+        },
+        {
+          "id": "22",
+          "name": "spagetti",
+          "quantity": "1",
+          "price": "400",
+          "isEnable":false
+         
+        },
+        {
+          "id": "23",
+          "name": "fried bellpepper noodles",
+          "quantity": "1",
+          "price": "375",
+          "isEnable":false
+         
+        },
+        {
+          "id": "24",
+          "name": "veg-noodles",
+          "quantity": "1",
+          "price": "400",
+          "isEnable":false
+         
+        }
+      ],
+      "tacos": [
+        {
+          "id": "25",
+          "name": "Brisket",
+          "quantity": "1",
+          "price": "450",
+          "isEnable":false
+     
+        },
+        {
+          "id": "26",
+          "name": "AI pastor",
+          "quantity": "1",
+          "price": "400",
+          "isEnable":false
+         
+        },
+        {
+          "id": "27",
+          "name": "chicken Fajita",
+          "quantity": "1",
+          "price": "500",
+          "isEnable":false
+         
+        },
+        {
+          "id": "28",
+          "name": "Tripita",
+          "quantity": "1",
+          "price": "400",
+          "isEnable":false
+         
+        },
+        {
+          "id": "29",
+          "name": "Ternera",
+          "quantity": "1",
+          "price": "375",
+          "isEnable":false
+         
+        },
+        {
+          "id": "30",
+          "name": "Molleja",
+          "quantity": "1",
+          "price": "400",
+          "isEnable":false
+         
+        }
+      ],
+      "fries": [
+        {
+          "id": "31",
+          "name": "French Fries",
+          "quantity": "1",
+          "price": "450",
+          "isEnable":false
+     
+        },
+        {
+          "id": "32",
+          "name": "French Nugets",
+          "quantity": "1",
+          "price": "400",
+          "isEnable":false
+         
+        },
+        {
+          "id": "33",
+          "name": "Chicken cheese balls",
+          "quantity": "1",
+          "price": "500",
+          "isEnable":false
+         
+        },
+        {
+          "id": "34",
+          "name": "paneer fries",
+          "quantity": "1",
+          "price": "400",
+          "isEnable":false
+         
+        },
+        {
+          "id": "35",
+          "name": "potato cheese fries",
+          "quantity": "1",
+          "price": "375",
+          "isEnable":false
+         
+        },
+        {
+          "id": "36",
+          "name": "onion fries",
+          "quantity": "1",
+          "price": "400",
+          "isEnable":false
+         
+        }
+      ],
+      "drinks": [
+        {
+          "id": "37",
+          "name": "Tequila",
+          "quantity": "1",
+          "price": "450",
+          "isEnable":false
+     
+        },
+        {
+          "id": "38",
+          "name": "Grapefruit soda",
+          "quantity": "1",
+          "price": "400",
+          "isEnable":false
+         
+        },
+        {
+          "id": "39",
+          "name": "lime juice",
+          "quantity": "1",
+          "price": "500",
+          "isEnable":false
+         
+        },
+        {
+          "id": "40",
+          "name": "cranberries",
+          "quantity": "1",
+          "price": "400",
+          "isEnable":false
+         
+        },
+        {
+          "id": "41",
+          "name": "salted rim",
+          "quantity": "1",
+          "price": "375",
+          "isEnable":false
+         
+        },
+        {
+          "id": "42",
+          "name": "triple sec margarita",
+          "quantity": "1",
+          "price": "400",
+          "isEnable":false
+         
+        }
+      ],
+      "desserts": [
+        {
+          "id": "43",
+          "name": "Chocolate Ecstasy",
+          "quantity": "1",
+          "price": "450",
+          "isEnable":false
+     
+        },
+        {
+          "id": "44",
+          "name": "Strawberry pudding",
+          "quantity": "1",
+          "price": "400",
+          "isEnable":false
+         
+        },
+        {
+          "id": "45",
+          "name": "Ice-Creams",
+          "quantity": "1",
+          "price": "500",
+          "isEnable":false
+         
+        },
+        {
+          "id": "46",
+          "name": "Fruit Delight",
+          "quantity": "1",
+          "price": "400",
+          "isEnable":false
+         
+        },
+        {
+          "id": "47",
+          "name": "classic cake",
+          "quantity": "1",
+          "price": "375",
+          "isEnable":false
+         
+        },
+        {
+          "id": "48",
+          "name": "chocolate brownie",
+          "quantity": "1",
+          "price": "400",
+          "isEnable":false
+         
+        }
+      ]
+}
